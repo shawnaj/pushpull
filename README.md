@@ -1,1 +1,1 @@
-Shawna's Sandbox for testing git stuff
+Shawna, and Sam's Sandbox for testing git stuff
